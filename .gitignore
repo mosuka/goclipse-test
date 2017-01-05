@@ -26,4 +26,8 @@ _testmain.go
 # Exlipse
 *.project
 
+# IntelliJ
+.idea/
+*.iml
+
 goclipse-test
